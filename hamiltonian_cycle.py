@@ -50,7 +50,7 @@ class Graph:
             print(vertex, end=" ")
         print(path[0], "\n")
 
-
+# example
 g1 = Graph(7)
 g1.graph = [[0, 1, 1, 0, 0, 0, 0],
             [1, 0, 0, 1, 1, 0, 0],
